@@ -1,0 +1,89 @@
+/*
+==============================================================================
+PROJECT: Hostel Occupancy and Attendance Analytics
+AUTHOR: Nithin K S (GitHub: NithinKs0405)
+TOOLS: Power BI Desktop, DAX
+==============================================================================
+*/
+
+// ==========================================
+// 1. CORE OCCUPANCY & ATTENDANCE MEASURES
+// ==========================================
+
+Total Enrolled Residents = 
+DISTINCTCOUNT('Students'[StudentID])
+
+Active Present Today = 
+CALCULATE(
+    DISTINCTCOUNT('AttendanceLogs'[StudentID]),
+    'AttendanceLogs'[Direction] = "IN"
+)
+
+Daily Attendance Rate % = 
+DIVIDE(
+    [Active Present Today],
+    [Total Enrolled Residents],
+    0
+)
+
+Total Turnstile Movements = 
+COUNTROWS('AttendanceLogs')
+
+Total Egress Volume (OUT) = 
+CALCULATE(
+    COUNTROWS('AttendanceLogs'),
+    'AttendanceLogs'[Direction] = "OUT"
+)
+
+Total Ingress Volume (IN) = 
+CALCULATE(
+    COUNTROWS('AttendanceLogs'),
+    'AttendanceLogs'[Direction] = "IN"
+)
+
+
+// ==========================================
+// 2. SECURITY & CURFEW AUDIT MEASURES
+// ==========================================
+
+Curfew Violations Count = 
+CALCULATE(
+    COUNTROWS('AttendanceLogs'),
+    'AttendanceLogs'[IsCurfewLateEntry] = TRUE()
+)
+
+Unique Late Students = 
+CALCULATE(
+    DISTINCTCOUNT('AttendanceLogs'[StudentID]),
+    'AttendanceLogs'[IsCurfewLateEntry] = TRUE()
+)
+
+Curfew Violation Rate % = 
+DIVIDE(
+    [Curfew Violations Count],
+    [Total Ingress Volume (IN)],
+    0
+)
+
+Unauthorized Night Exits = 
+CALCULATE(
+    COUNTROWS('AttendanceLogs'),
+    'AttendanceLogs'[IsNightExitAnomaly] = TRUE()
+)
+
+Chronic Offender Count (>5 Late Entries) = 
+COUNTROWS(
+    FILTER(
+        VALUES('Students'[StudentID]),
+        CALCULATE(
+            COUNTROWS('AttendanceLogs'),
+            'AttendanceLogs'[IsCurfewLateEntry] = TRUE()
+        ) >= 5
+    )
+)
+
+Weekend Outing Rate % = 
+VAR WeekdayAvg = CALCULATE([Daily Attendance Rate %], NOT('AttendanceLogs'[DayOfWeek] IN {"Saturday", "Sunday"}))
+VAR WeekendAvg = CALCULATE([Daily Attendance Rate %], 'AttendanceLogs'[DayOfWeek] IN {"Saturday", "Sunday"})
+RETURN 
+DIVIDE(WeekdayAvg - WeekendAvg, WeekdayAvg, 0)

@@ -1,0 +1,451 @@
+StudentID,FullName,Gender,Department,YearOfStudy,BlockName,RoomNumber,CurfewTime,LatePropensity
+STU-0101,Vihaan Sharma,Male,Information Tech,1,Block A,A-101,21:30:00,0.02
+STU-0102,Vihaan Chatterjee,Male,Computer Science,3,Block A,A-102,21:30:00,0.02
+STU-0103,Aditya Kumar,Male,AI & Data Science,2,Block A,A-103,21:30:00,0.02
+STU-0104,Reyansh Chatterjee,Male,Electronics,1,Block A,A-104,21:30:00,0.02
+STU-0105,Aarav Iyer,Male,Electronics,2,Block A,A-105,21:30:00,0.02
+STU-0106,Shaurya Reddy,Male,Computer Science,2,Block A,A-106,21:30:00,0.02
+STU-0107,Atharv Sundaram,Male,Information Tech,4,Block A,A-107,21:30:00,0.02
+STU-0108,Dev Reddy,Male,Electronics,1,Block A,A-108,21:30:00,0.02
+STU-0109,Sanjay Menon,Male,Mechanical,1,Block A,A-109,21:30:00,0.02
+STU-0110,Ayaan Pillai,Male,Computer Science,4,Block A,A-110,21:30:00,0.08
+STU-0111,Rudra Rao,Male,Electronics,3,Block A,A-111,21:30:00,0.02
+STU-0112,Atharv Menon,Male,AI & Data Science,3,Block A,A-112,21:30:00,0.02
+STU-0113,Aditya Sundaram,Male,AI & Data Science,2,Block A,A-113,21:30:00,0.02
+STU-0114,Kabir Joshi,Male,Information Tech,4,Block A,A-114,21:30:00,0.02
+STU-0115,Dev Singh,Male,Information Tech,4,Block A,A-115,21:30:00,0.08
+STU-0116,Ayaan Verma,Male,Information Tech,2,Block A,A-116,21:30:00,0.02
+STU-0117,Manish Gupta,Male,AI & Data Science,3,Block A,A-117,21:30:00,0.02
+STU-0118,Kabir Nair,Male,Information Tech,1,Block A,A-118,21:30:00,0.02
+STU-0119,Dev Rao,Male,Mechanical,2,Block A,A-119,21:30:00,0.02
+STU-0120,Atharv Singh,Male,AI & Data Science,2,Block A,A-120,21:30:00,0.02
+STU-0121,Vivaan Reddy,Male,AI & Data Science,3,Block A,A-121,21:30:00,0.08
+STU-0122,Nithin Sundaram,Male,Computer Science,2,Block A,A-122,21:30:00,0.02
+STU-0123,Kabir Hegde,Male,Information Tech,4,Block A,A-123,21:30:00,0.08
+STU-0124,Aarav Reddy,Male,Mechanical,3,Block A,A-124,21:30:00,0.08
+STU-0125,Shaurya Reddy,Male,Information Tech,2,Block A,A-125,21:30:00,0.02
+STU-0126,Krishna Hegde,Male,AI & Data Science,2,Block A,A-126,21:30:00,0.02
+STU-0127,Ishaan Hegde,Male,Mechanical,1,Block A,A-127,21:30:00,0.02
+STU-0128,Sai Chatterjee,Male,Mechanical,4,Block A,A-128,21:30:00,0.02
+STU-0129,Rishi Sharma,Male,Computer Science,4,Block A,A-129,21:30:00,0.08
+STU-0130,Ishaan Singh,Male,Computer Science,1,Block A,A-110,21:30:00,0.02
+STU-0131,Aditya Patel,Male,Electronics,4,Block A,A-111,21:30:00,0.25
+STU-0132,Dev Nair,Male,AI & Data Science,3,Block A,A-112,21:30:00,0.08
+STU-0133,Sai Rao,Male,Mechanical,4,Block A,A-113,21:30:00,0.02
+STU-0134,Reyansh Chatterjee,Male,AI & Data Science,3,Block A,A-114,21:30:00,0.02
+STU-0135,Atharv Deshmukh,Male,Mechanical,2,Block A,A-115,21:30:00,0.02
+STU-0136,Aditya Gupta,Male,Computer Science,3,Block A,A-116,21:30:00,0.02
+STU-0137,Ayaan Sharma,Male,Computer Science,3,Block A,A-117,21:30:00,0.02
+STU-0138,Aditya Verma,Male,Information Tech,1,Block A,A-118,21:30:00,0.02
+STU-0139,Rishi Kumar,Male,Mechanical,1,Block A,A-119,21:30:00,0.08
+STU-0140,Manish Das,Male,Electronics,1,Block A,A-120,21:30:00,0.02
+STU-0141,Nithin Kumar,Male,Computer Science,1,Block A,A-121,21:30:00,0.02
+STU-0142,Nithin Bhat,Male,Electronics,4,Block A,A-122,21:30:00,0.02
+STU-0143,Vihaan Verma,Male,Electronics,3,Block A,A-123,21:30:00,0.08
+STU-0144,Vihaan Singh,Male,AI & Data Science,1,Block A,A-124,21:30:00,0.02
+STU-0145,Nithin Iyer,Male,Information Tech,2,Block A,A-125,21:30:00,0.08
+STU-0146,Aditya Deshmukh,Male,Mechanical,1,Block A,A-126,21:30:00,0.02
+STU-0147,Dev Sharma,Male,Computer Science,4,Block A,A-127,21:30:00,0.08
+STU-0148,Sai Bhat,Male,Electronics,2,Block A,A-128,21:30:00,0.08
+STU-0149,Vivaan Iyer,Male,Electronics,1,Block A,A-129,21:30:00,0.02
+STU-0150,Kabir Pillai,Male,Electronics,3,Block A,A-130,21:30:00,0.02
+STU-0151,Dev Kulkarni,Male,AI & Data Science,1,Block A,A-131,21:30:00,0.02
+STU-0152,Vivaan Das,Male,Mechanical,1,Block A,A-132,21:30:00,0.02
+STU-0153,Vivaan Das,Male,Electronics,2,Block A,A-133,21:30:00,0.08
+STU-0154,Sai Verma,Male,Mechanical,1,Block A,A-134,21:30:00,0.02
+STU-0155,Sanjay Patel,Male,AI & Data Science,2,Block A,A-135,21:30:00,0.08
+STU-0156,Manish Singh,Male,Mechanical,3,Block A,A-136,21:30:00,0.02
+STU-0157,Nithin Das,Male,Mechanical,2,Block A,A-137,21:30:00,0.08
+STU-0158,Reyansh Gupta,Male,AI & Data Science,1,Block A,A-138,21:30:00,0.02
+STU-0159,Ishaan Deshmukh,Male,Information Tech,4,Block A,A-139,21:30:00,0.08
+STU-0160,Aarav Deshmukh,Male,Mechanical,4,Block A,A-120,21:30:00,0.25
+STU-0161,Aditya Chatterjee,Male,AI & Data Science,2,Block A,A-121,21:30:00,0.02
+STU-0162,Atharv Patel,Male,AI & Data Science,2,Block A,A-122,21:30:00,0.02
+STU-0163,Dev Pillai,Male,Mechanical,4,Block A,A-123,21:30:00,0.08
+STU-0164,Karan Sharma,Male,Mechanical,2,Block A,A-124,21:30:00,0.02
+STU-0165,Arjun Rao,Male,Computer Science,4,Block A,A-125,21:30:00,0.02
+STU-0166,Arjun Rao,Male,Information Tech,3,Block A,A-126,21:30:00,0.02
+STU-0167,Reyansh Rao,Male,Mechanical,2,Block A,A-127,21:30:00,0.08
+STU-0168,Vivaan Patel,Male,Electronics,4,Block A,A-128,21:30:00,0.02
+STU-0169,Shaurya Nair,Male,Information Tech,1,Block A,A-129,21:30:00,0.02
+STU-0170,Nithin Chatterjee,Male,Computer Science,1,Block A,A-130,21:30:00,0.08
+STU-0171,Arjun Chatterjee,Male,Computer Science,4,Block A,A-131,21:30:00,0.02
+STU-0172,Arjun Bhat,Male,AI & Data Science,1,Block A,A-132,21:30:00,0.02
+STU-0173,Vivaan Menon,Male,AI & Data Science,3,Block A,A-133,21:30:00,0.02
+STU-0174,Atharv Chatterjee,Male,Electronics,4,Block A,A-134,21:30:00,0.02
+STU-0175,Ayaan Iyer,Male,AI & Data Science,4,Block A,A-135,21:30:00,0.02
+STU-0176,Shaurya Bhat,Male,AI & Data Science,1,Block A,A-136,21:30:00,0.08
+STU-0177,Vihaan Joshi,Male,Computer Science,4,Block A,A-137,21:30:00,0.02
+STU-0178,Kabir Menon,Male,Information Tech,4,Block A,A-138,21:30:00,0.08
+STU-0179,Ayaan Sharma,Male,AI & Data Science,2,Block A,A-139,21:30:00,0.02
+STU-0180,Aditya Rao,Male,Information Tech,3,Block A,A-140,21:30:00,0.02
+STU-0181,Dev Gupta,Male,Computer Science,1,Block A,A-141,21:30:00,0.25
+STU-0182,Sai Das,Male,Information Tech,1,Block A,A-142,21:30:00,0.02
+STU-0183,Atharv Gupta,Male,Electronics,3,Block A,A-143,21:30:00,0.02
+STU-0184,Rudra Das,Male,AI & Data Science,1,Block A,A-144,21:30:00,0.02
+STU-0185,Aarav Hegde,Male,Mechanical,3,Block A,A-145,21:30:00,0.08
+STU-0186,Reyansh Menon,Male,Electronics,1,Block A,A-146,21:30:00,0.02
+STU-0187,Shaurya Sundaram,Male,Information Tech,3,Block A,A-147,21:30:00,0.02
+STU-0188,Ishaan Hegde,Male,Information Tech,3,Block A,A-148,21:30:00,0.02
+STU-0189,Ishaan Chatterjee,Male,AI & Data Science,1,Block A,A-149,21:30:00,0.02
+STU-0190,Rudra Iyer,Male,Mechanical,3,Block A,A-130,21:30:00,0.02
+STU-0191,Aarav Pillai,Male,Information Tech,1,Block A,A-131,21:30:00,0.08
+STU-0192,Sanjay Gupta,Male,Electronics,2,Block A,A-132,21:30:00,0.02
+STU-0193,Karan Kulkarni,Male,AI & Data Science,3,Block A,A-133,21:30:00,0.02
+STU-0194,Sanjay Gupta,Male,Computer Science,4,Block A,A-134,21:30:00,0.08
+STU-0195,Ishaan Singh,Male,AI & Data Science,1,Block A,A-135,21:30:00,0.02
+STU-0196,Rishi Sundaram,Male,Computer Science,2,Block A,A-136,21:30:00,0.08
+STU-0197,Manish Kumar,Male,Electronics,2,Block A,A-137,21:30:00,0.02
+STU-0198,Aarav Reddy,Male,Electronics,1,Block A,A-138,21:30:00,0.08
+STU-0199,Karan Deshmukh,Male,Computer Science,3,Block A,A-139,21:30:00,0.08
+STU-0200,Vihaan Deshmukh,Male,AI & Data Science,4,Block A,A-140,21:30:00,0.02
+STU-0201,Dev Sundaram,Male,Information Tech,4,Block A,A-141,21:30:00,0.08
+STU-0202,Sanjay Hegde,Male,Electronics,4,Block A,A-142,21:30:00,0.02
+STU-0203,Sai Kulkarni,Male,Electronics,1,Block A,A-143,21:30:00,0.02
+STU-0204,Krishna Hegde,Male,Electronics,3,Block A,A-144,21:30:00,0.02
+STU-0205,Aditya Pillai,Male,AI & Data Science,1,Block A,A-145,21:30:00,0.02
+STU-0206,Dev Patel,Male,AI & Data Science,1,Block A,A-146,21:30:00,0.02
+STU-0207,Arjun Kumar,Male,Computer Science,2,Block A,A-147,21:30:00,0.02
+STU-0208,Kabir Bhat,Male,Computer Science,1,Block A,A-148,21:30:00,0.02
+STU-0209,Manish Sharma,Male,Mechanical,2,Block A,A-149,21:30:00,0.02
+STU-0210,Atharv Pillai,Male,Electronics,4,Block A,A-150,21:30:00,0.25
+STU-0211,Nithin Chatterjee,Male,Mechanical,4,Block A,A-151,21:30:00,0.08
+STU-0212,Rishi Singh,Male,Information Tech,2,Block A,A-152,21:30:00,0.02
+STU-0213,Shaurya Joshi,Male,AI & Data Science,4,Block A,A-153,21:30:00,0.08
+STU-0214,Sanjay Chatterjee,Male,Computer Science,4,Block A,A-154,21:30:00,0.02
+STU-0215,Aarav Patel,Male,Electronics,1,Block A,A-155,21:30:00,0.02
+STU-0216,Vivaan Rao,Male,Electronics,2,Block A,A-156,21:30:00,0.02
+STU-0217,Shaurya Joshi,Male,Information Tech,3,Block A,A-157,21:30:00,0.08
+STU-0218,Krishna Patel,Male,Electronics,1,Block A,A-158,21:30:00,0.02
+STU-0219,Atharv Singh,Male,Computer Science,4,Block A,A-159,21:30:00,0.02
+STU-0220,Aarav Singh,Male,AI & Data Science,4,Block A,A-140,21:30:00,0.02
+STU-0221,Ayaan Nair,Male,Electronics,3,Block B,B-101,21:30:00,0.02
+STU-0222,Reyansh Deshmukh,Male,Information Tech,3,Block B,B-102,21:30:00,0.02
+STU-0223,Sanjay Reddy,Male,AI & Data Science,4,Block B,B-103,21:30:00,0.02
+STU-0224,Aarav Pillai,Male,Mechanical,3,Block B,B-104,21:30:00,0.25
+STU-0225,Rudra Kumar,Male,Computer Science,3,Block B,B-105,21:30:00,0.08
+STU-0226,Ayaan Reddy,Male,Information Tech,4,Block B,B-106,21:30:00,0.02
+STU-0227,Vihaan Das,Male,Computer Science,2,Block B,B-107,21:30:00,0.02
+STU-0228,Atharv Patel,Male,Mechanical,3,Block B,B-108,21:30:00,0.02
+STU-0229,Nithin Kulkarni,Male,Computer Science,2,Block B,B-109,21:30:00,0.02
+STU-0230,Kabir Nair,Male,Electronics,1,Block B,B-110,21:30:00,0.02
+STU-0231,Krishna Sundaram,Male,Mechanical,3,Block B,B-111,21:30:00,0.02
+STU-0232,Manish Rao,Male,Information Tech,4,Block B,B-112,21:30:00,0.08
+STU-0233,Aditya Rao,Male,Electronics,1,Block B,B-113,21:30:00,0.02
+STU-0234,Sanjay Joshi,Male,Information Tech,1,Block B,B-114,21:30:00,0.08
+STU-0235,Sai Kulkarni,Male,AI & Data Science,2,Block B,B-115,21:30:00,0.02
+STU-0236,Krishna Sundaram,Male,Information Tech,3,Block B,B-116,21:30:00,0.02
+STU-0237,Reyansh Patel,Male,AI & Data Science,3,Block B,B-117,21:30:00,0.02
+STU-0238,Ayaan Kulkarni,Male,Electronics,2,Block B,B-118,21:30:00,0.02
+STU-0239,Ishaan Singh,Male,Electronics,3,Block B,B-119,21:30:00,0.02
+STU-0240,Manish Menon,Male,Electronics,3,Block B,B-120,21:30:00,0.02
+STU-0241,Dev Gupta,Male,Information Tech,3,Block B,B-121,21:30:00,0.02
+STU-0242,Krishna Singh,Male,Computer Science,3,Block B,B-122,21:30:00,0.02
+STU-0243,Dev Iyer,Male,AI & Data Science,1,Block B,B-123,21:30:00,0.02
+STU-0244,Manish Hegde,Male,Mechanical,2,Block B,B-124,21:30:00,0.02
+STU-0245,Reyansh Pillai,Male,AI & Data Science,2,Block B,B-125,21:30:00,0.02
+STU-0246,Dev Nair,Male,Information Tech,1,Block B,B-126,21:30:00,0.02
+STU-0247,Ishaan Nair,Male,Electronics,1,Block B,B-127,21:30:00,0.02
+STU-0248,Ishaan Kulkarni,Male,Electronics,2,Block B,B-128,21:30:00,0.02
+STU-0249,Vivaan Rao,Male,Electronics,1,Block B,B-129,21:30:00,0.02
+STU-0250,Rishi Patel,Male,Mechanical,3,Block B,B-110,21:30:00,0.02
+STU-0251,Arjun Das,Male,Information Tech,1,Block B,B-111,21:30:00,0.02
+STU-0252,Dev Bhat,Male,Mechanical,3,Block B,B-112,21:30:00,0.02
+STU-0253,Karan Joshi,Male,Electronics,4,Block B,B-113,21:30:00,0.02
+STU-0254,Manish Bhat,Male,Information Tech,3,Block B,B-114,21:30:00,0.02
+STU-0255,Vihaan Kumar,Male,AI & Data Science,1,Block B,B-115,21:30:00,0.02
+STU-0256,Ayaan Iyer,Male,Mechanical,1,Block B,B-116,21:30:00,0.02
+STU-0257,Kabir Sundaram,Male,Electronics,2,Block B,B-117,21:30:00,0.02
+STU-0258,Ishaan Deshmukh,Male,Computer Science,3,Block B,B-118,21:30:00,0.08
+STU-0259,Manish Kumar,Male,Electronics,1,Block B,B-119,21:30:00,0.02
+STU-0260,Arjun Rao,Male,AI & Data Science,1,Block B,B-120,21:30:00,0.02
+STU-0261,Ishaan Sundaram,Male,Mechanical,4,Block B,B-121,21:30:00,0.02
+STU-0262,Kabir Pillai,Male,Electronics,4,Block B,B-122,21:30:00,0.02
+STU-0263,Rishi Deshmukh,Male,Computer Science,3,Block B,B-123,21:30:00,0.08
+STU-0264,Shaurya Sundaram,Male,Information Tech,1,Block B,B-124,21:30:00,0.02
+STU-0265,Manish Das,Male,Computer Science,4,Block B,B-125,21:30:00,0.02
+STU-0266,Krishna Das,Male,Computer Science,3,Block B,B-126,21:30:00,0.02
+STU-0267,Karan Deshmukh,Male,Information Tech,1,Block B,B-127,21:30:00,0.02
+STU-0268,Rishi Patel,Male,Electronics,2,Block B,B-128,21:30:00,0.02
+STU-0269,Vihaan Iyer,Male,Information Tech,2,Block B,B-129,21:30:00,0.02
+STU-0270,Rudra Chatterjee,Male,Computer Science,2,Block B,B-130,21:30:00,0.02
+STU-0271,Shaurya Reddy,Male,Electronics,4,Block B,B-131,21:30:00,0.08
+STU-0272,Aarav Chatterjee,Male,Electronics,2,Block B,B-132,21:30:00,0.02
+STU-0273,Atharv Sundaram,Male,Electronics,3,Block B,B-133,21:30:00,0.08
+STU-0274,Reyansh Rao,Male,Mechanical,1,Block B,B-134,21:30:00,0.02
+STU-0275,Rishi Reddy,Male,Computer Science,4,Block B,B-135,21:30:00,0.02
+STU-0276,Ayaan Iyer,Male,Information Tech,3,Block B,B-136,21:30:00,0.02
+STU-0277,Aditya Singh,Male,Computer Science,2,Block B,B-137,21:30:00,0.02
+STU-0278,Arjun Kulkarni,Male,Information Tech,2,Block B,B-138,21:30:00,0.02
+STU-0279,Rishi Kulkarni,Male,AI & Data Science,2,Block B,B-139,21:30:00,0.02
+STU-0280,Reyansh Sundaram,Male,Mechanical,3,Block B,B-120,21:30:00,0.02
+STU-0281,Aditya Rao,Male,Electronics,2,Block B,B-121,21:30:00,0.08
+STU-0282,Krishna Sharma,Male,Information Tech,3,Block B,B-122,21:30:00,0.08
+STU-0283,Manish Kulkarni,Male,AI & Data Science,2,Block B,B-123,21:30:00,0.02
+STU-0284,Shaurya Chatterjee,Male,Mechanical,2,Block B,B-124,21:30:00,0.08
+STU-0285,Reyansh Singh,Male,Mechanical,2,Block B,B-125,21:30:00,0.08
+STU-0286,Nithin Verma,Male,Information Tech,3,Block B,B-126,21:30:00,0.02
+STU-0287,Rudra Joshi,Male,AI & Data Science,2,Block B,B-127,21:30:00,0.02
+STU-0288,Karan Das,Male,Information Tech,4,Block B,B-128,21:30:00,0.08
+STU-0289,Kabir Reddy,Male,Mechanical,4,Block B,B-129,21:30:00,0.02
+STU-0290,Arjun Bhat,Male,AI & Data Science,1,Block B,B-130,21:30:00,0.08
+STU-0291,Krishna Gupta,Male,Mechanical,3,Block B,B-131,21:30:00,0.02
+STU-0292,Shaurya Chatterjee,Male,Electronics,4,Block B,B-132,21:30:00,0.02
+STU-0293,Rishi Chatterjee,Male,Computer Science,3,Block B,B-133,21:30:00,0.02
+STU-0294,Ishaan Singh,Male,Computer Science,2,Block B,B-134,21:30:00,0.02
+STU-0295,Vihaan Deshmukh,Male,AI & Data Science,3,Block B,B-135,21:30:00,0.08
+STU-0296,Vivaan Gupta,Male,Computer Science,2,Block B,B-136,21:30:00,0.02
+STU-0297,Arjun Singh,Male,Mechanical,2,Block B,B-137,21:30:00,0.02
+STU-0298,Sai Iyer,Male,AI & Data Science,1,Block B,B-138,21:30:00,0.08
+STU-0299,Sanjay Singh,Male,Electronics,4,Block B,B-139,21:30:00,0.02
+STU-0300,Kabir Rao,Male,Electronics,1,Block B,B-140,21:30:00,0.02
+STU-0301,Kabir Pillai,Male,Mechanical,1,Block B,B-141,21:30:00,0.02
+STU-0302,Atharv Das,Male,Information Tech,3,Block B,B-142,21:30:00,0.02
+STU-0303,Krishna Deshmukh,Male,Information Tech,1,Block B,B-143,21:30:00,0.02
+STU-0304,Rishi Reddy,Male,AI & Data Science,2,Block B,B-144,21:30:00,0.02
+STU-0305,Ishaan Pillai,Male,Computer Science,4,Block B,B-145,21:30:00,0.02
+STU-0306,Krishna Sharma,Male,Mechanical,4,Block B,B-146,21:30:00,0.08
+STU-0307,Vivaan Sundaram,Male,Electronics,4,Block B,B-147,21:30:00,0.08
+STU-0308,Ayaan Sundaram,Male,Information Tech,1,Block B,B-148,21:30:00,0.02
+STU-0309,Krishna Nair,Male,Computer Science,4,Block B,B-149,21:30:00,0.02
+STU-0310,Ishaan Deshmukh,Male,Computer Science,3,Block B,B-130,21:30:00,0.02
+STU-0311,Aditya Pillai,Male,Information Tech,3,Block B,B-131,21:30:00,0.02
+STU-0312,Arjun Chatterjee,Male,Information Tech,2,Block B,B-132,21:30:00,0.08
+STU-0313,Sai Rao,Male,Electronics,4,Block B,B-133,21:30:00,0.02
+STU-0314,Shaurya Reddy,Male,Electronics,4,Block B,B-134,21:30:00,0.02
+STU-0315,Ayaan Joshi,Male,Mechanical,2,Block B,B-135,21:30:00,0.08
+STU-0316,Aarav Rao,Male,Mechanical,1,Block B,B-136,21:30:00,0.02
+STU-0317,Krishna Das,Male,Electronics,4,Block B,B-137,21:30:00,0.08
+STU-0318,Vihaan Singh,Male,Electronics,1,Block B,B-138,21:30:00,0.08
+STU-0319,Dev Gupta,Male,Mechanical,1,Block B,B-139,21:30:00,0.02
+STU-0320,Kabir Pillai,Male,Electronics,1,Block B,B-140,21:30:00,0.02
+STU-0321,Vivaan Pillai,Male,Electronics,1,Block B,B-141,21:30:00,0.02
+STU-0322,Dev Nair,Male,Electronics,2,Block B,B-142,21:30:00,0.02
+STU-0323,Dev Bhat,Male,Mechanical,3,Block B,B-143,21:30:00,0.02
+STU-0324,Nithin Reddy,Male,Electronics,3,Block B,B-144,21:30:00,0.08
+STU-0325,Krishna Verma,Male,Information Tech,1,Block B,B-145,21:30:00,0.02
+STU-0326,Ayaan Menon,Male,Computer Science,4,Block B,B-146,21:30:00,0.02
+STU-0327,Atharv Verma,Male,Electronics,1,Block B,B-147,21:30:00,0.25
+STU-0328,Kabir Patel,Male,AI & Data Science,3,Block B,B-148,21:30:00,0.02
+STU-0329,Aarav Verma,Male,Information Tech,1,Block B,B-149,21:30:00,0.02
+STU-0330,Manish Kumar,Male,Computer Science,4,Block B,B-150,21:30:00,0.02
+STU-0331,Divya Kumar,Female,AI & Data Science,2,Block C,C-101,21:30:00,0.02
+STU-0332,Neha Sharma,Female,Information Tech,4,Block C,C-102,21:30:00,0.02
+STU-0333,Ananya Chatterjee,Female,Information Tech,4,Block C,C-103,21:30:00,0.02
+STU-0334,Saanvi Nair,Female,Computer Science,2,Block C,C-104,21:30:00,0.08
+STU-0335,Divya Gupta,Female,Computer Science,1,Block C,C-105,21:30:00,0.02
+STU-0336,Pooja Hegde,Female,Computer Science,3,Block C,C-106,21:30:00,0.02
+STU-0337,Meera Hegde,Female,Mechanical,1,Block C,C-107,21:30:00,0.02
+STU-0338,Neha Verma,Female,Mechanical,2,Block C,C-108,21:30:00,0.02
+STU-0339,Saanvi Verma,Female,Electronics,4,Block C,C-109,21:30:00,0.02
+STU-0340,Aaradhya Kulkarni,Female,Electronics,1,Block C,C-110,21:30:00,0.02
+STU-0341,Neha Nair,Female,Computer Science,1,Block C,C-111,21:30:00,0.02
+STU-0342,Divya Chatterjee,Female,Information Tech,2,Block C,C-112,21:30:00,0.02
+STU-0343,Avni Deshmukh,Female,Mechanical,3,Block C,C-113,21:30:00,0.02
+STU-0344,Aaradhya Chatterjee,Female,AI & Data Science,2,Block C,C-114,21:30:00,0.08
+STU-0345,Pooja Gupta,Female,Electronics,2,Block C,C-115,21:30:00,0.02
+STU-0346,Isha Bhat,Female,Information Tech,3,Block C,C-116,21:30:00,0.02
+STU-0347,Ananya Kulkarni,Female,Computer Science,1,Block C,C-117,21:30:00,0.02
+STU-0348,Pooja Reddy,Female,Information Tech,4,Block C,C-118,21:30:00,0.02
+STU-0349,Divya Chatterjee,Female,Mechanical,2,Block C,C-119,21:30:00,0.02
+STU-0350,Meera Bhat,Female,Computer Science,4,Block C,C-120,21:30:00,0.02
+STU-0351,Meera Reddy,Female,Mechanical,2,Block C,C-121,21:30:00,0.02
+STU-0352,Priyanka Singh,Female,Computer Science,2,Block C,C-122,21:30:00,0.02
+STU-0353,Aaradhya Rao,Female,Mechanical,1,Block C,C-123,21:30:00,0.02
+STU-0354,Deepika Sundaram,Female,Mechanical,3,Block C,C-124,21:30:00,0.02
+STU-0355,Neha Rao,Female,Computer Science,1,Block C,C-125,21:30:00,0.02
+STU-0356,Avni Gupta,Female,Information Tech,1,Block C,C-126,21:30:00,0.08
+STU-0357,Divya Joshi,Female,Computer Science,1,Block C,C-127,21:30:00,0.02
+STU-0358,Saanvi Patel,Female,Mechanical,1,Block C,C-128,21:30:00,0.02
+STU-0359,Isha Iyer,Female,Information Tech,2,Block C,C-129,21:30:00,0.02
+STU-0360,Divya Sundaram,Female,Computer Science,4,Block C,C-110,21:30:00,0.02
+STU-0361,Neha Verma,Female,Computer Science,1,Block C,C-111,21:30:00,0.02
+STU-0362,Priyanka Sundaram,Female,Electronics,2,Block C,C-112,21:30:00,0.02
+STU-0363,Raashmi Reddy,Female,Information Tech,2,Block C,C-113,21:30:00,0.02
+STU-0364,Divya Kulkarni,Female,Mechanical,3,Block C,C-114,21:30:00,0.02
+STU-0365,Sneha Sundaram,Female,Computer Science,1,Block C,C-115,21:30:00,0.02
+STU-0366,Diya Nair,Female,Information Tech,2,Block C,C-116,21:30:00,0.02
+STU-0367,Priyanka Bhat,Female,AI & Data Science,1,Block C,C-117,21:30:00,0.02
+STU-0368,Anika Hegde,Female,Mechanical,4,Block C,C-118,21:30:00,0.08
+STU-0369,Aadhya Joshi,Female,Computer Science,2,Block C,C-119,21:30:00,0.02
+STU-0370,Aadhya Gupta,Female,Mechanical,2,Block C,C-120,21:30:00,0.02
+STU-0371,Pooja Pillai,Female,Computer Science,2,Block C,C-121,21:30:00,0.25
+STU-0372,Pari Sundaram,Female,Electronics,4,Block C,C-122,21:30:00,0.08
+STU-0373,Aadhya Bhat,Female,Computer Science,1,Block C,C-123,21:30:00,0.02
+STU-0374,Raashmi Patel,Female,Electronics,4,Block C,C-124,21:30:00,0.02
+STU-0375,Anika Gupta,Female,AI & Data Science,1,Block C,C-125,21:30:00,0.02
+STU-0376,Raashmi Hegde,Female,AI & Data Science,4,Block C,C-126,21:30:00,0.02
+STU-0377,Ananya Singh,Female,Computer Science,1,Block C,C-127,21:30:00,0.02
+STU-0378,Neha Nair,Female,Computer Science,1,Block C,C-128,21:30:00,0.08
+STU-0379,Priyanka Deshmukh,Female,Mechanical,3,Block C,C-129,21:30:00,0.02
+STU-0380,Divya Sundaram,Female,Information Tech,4,Block C,C-130,21:30:00,0.02
+STU-0381,Ananya Deshmukh,Female,Computer Science,2,Block C,C-131,21:30:00,0.02
+STU-0382,Riya Das,Female,Computer Science,2,Block C,C-132,21:30:00,0.02
+STU-0383,Kavya Deshmukh,Female,Computer Science,1,Block C,C-133,21:30:00,0.08
+STU-0384,Aadhya Patel,Female,Mechanical,3,Block C,C-134,21:30:00,0.02
+STU-0385,Divya Chatterjee,Female,Computer Science,2,Block C,C-135,21:30:00,0.08
+STU-0386,Diya Gupta,Female,Mechanical,2,Block C,C-136,21:30:00,0.02
+STU-0387,Aanya Deshmukh,Female,Computer Science,4,Block C,C-137,21:30:00,0.08
+STU-0388,Aadhya Hegde,Female,AI & Data Science,1,Block C,C-138,21:30:00,0.02
+STU-0389,Kavya Hegde,Female,Mechanical,3,Block C,C-139,21:30:00,0.02
+STU-0390,Avni Joshi,Female,Electronics,3,Block C,C-120,21:30:00,0.02
+STU-0391,Aanya Gupta,Female,Computer Science,2,Block C,C-121,21:30:00,0.02
+STU-0392,Sneha Pillai,Female,Information Tech,3,Block C,C-122,21:30:00,0.02
+STU-0393,Neha Nair,Female,Information Tech,1,Block C,C-123,21:30:00,0.02
+STU-0394,Meera Pillai,Female,Electronics,1,Block C,C-124,21:30:00,0.02
+STU-0395,Aadhya Pillai,Female,Mechanical,2,Block C,C-125,21:30:00,0.08
+STU-0396,Ananya Hegde,Female,Computer Science,3,Block C,C-126,21:30:00,0.02
+STU-0397,Meera Sharma,Female,Information Tech,2,Block C,C-127,21:30:00,0.25
+STU-0398,Isha Kulkarni,Female,AI & Data Science,1,Block C,C-128,21:30:00,0.02
+STU-0399,Aadhya Pillai,Female,Computer Science,2,Block C,C-129,21:30:00,0.02
+STU-0400,Raashmi Verma,Female,Information Tech,4,Block C,C-130,21:30:00,0.02
+STU-0401,Neha Joshi,Female,AI & Data Science,1,Block C,C-131,21:30:00,0.08
+STU-0402,Neha Iyer,Female,Electronics,1,Block C,C-132,21:30:00,0.02
+STU-0403,Anika Deshmukh,Female,Mechanical,2,Block C,C-133,21:30:00,0.02
+STU-0404,Kavya Singh,Female,Mechanical,1,Block C,C-134,21:30:00,0.25
+STU-0405,Priyanka Kumar,Female,Information Tech,3,Block C,C-135,21:30:00,0.02
+STU-0406,Kavya Deshmukh,Female,Information Tech,3,Block C,C-136,21:30:00,0.02
+STU-0407,Pooja Iyer,Female,AI & Data Science,4,Block C,C-137,21:30:00,0.02
+STU-0408,Riya Verma,Female,Electronics,4,Block C,C-138,21:30:00,0.02
+STU-0409,Aaradhya Hegde,Female,Computer Science,2,Block C,C-139,21:30:00,0.08
+STU-0410,Riya Deshmukh,Female,Mechanical,1,Block C,C-140,21:30:00,0.02
+STU-0411,Anika Deshmukh,Female,Information Tech,4,Block C,C-141,21:30:00,0.02
+STU-0412,Sneha Hegde,Female,Information Tech,1,Block C,C-142,21:30:00,0.25
+STU-0413,Meera Singh,Female,Computer Science,2,Block C,C-143,21:30:00,0.02
+STU-0414,Isha Nair,Female,AI & Data Science,1,Block C,C-144,21:30:00,0.08
+STU-0415,Priyanka Nair,Female,Electronics,2,Block C,C-145,21:30:00,0.02
+STU-0416,Aadhya Sharma,Female,Information Tech,1,Block C,C-146,21:30:00,0.02
+STU-0417,Neha Hegde,Female,Electronics,1,Block C,C-147,21:30:00,0.02
+STU-0418,Avni Reddy,Female,Computer Science,1,Block C,C-148,21:30:00,0.02
+STU-0419,Neha Deshmukh,Female,Computer Science,1,Block C,C-149,21:30:00,0.08
+STU-0420,Neha Chatterjee,Female,Computer Science,3,Block C,C-130,21:30:00,0.02
+STU-0421,Ananya Pillai,Female,Electronics,1,Block C,C-131,21:30:00,0.02
+STU-0422,Divya Bhat,Female,AI & Data Science,3,Block C,C-132,21:30:00,0.02
+STU-0423,Meera Patel,Female,Mechanical,3,Block C,C-133,21:30:00,0.08
+STU-0424,Raashmi Chatterjee,Female,Computer Science,2,Block C,C-134,21:30:00,0.02
+STU-0425,Sneha Menon,Female,Information Tech,3,Block C,C-135,21:30:00,0.02
+STU-0426,Aadhya Menon,Female,AI & Data Science,3,Block C,C-136,21:30:00,0.02
+STU-0427,Divya Gupta,Female,AI & Data Science,1,Block C,C-137,21:30:00,0.02
+STU-0428,Pari Deshmukh,Female,Electronics,3,Block C,C-138,21:30:00,0.08
+STU-0429,Aadhya Deshmukh,Female,Computer Science,2,Block C,C-139,21:30:00,0.02
+STU-0430,Diya Verma,Female,Information Tech,4,Block C,C-140,21:30:00,0.02
+STU-0431,Deepika Kulkarni,Female,Information Tech,1,Block C,C-141,21:30:00,0.02
+STU-0432,Avni Menon,Female,Computer Science,4,Block C,C-142,21:30:00,0.02
+STU-0433,Aaradhya Menon,Female,Electronics,4,Block C,C-143,21:30:00,0.02
+STU-0434,Sneha Gupta,Female,AI & Data Science,2,Block C,C-144,21:30:00,0.02
+STU-0435,Raashmi Rao,Female,Computer Science,3,Block C,C-145,21:30:00,0.02
+STU-0436,Neha Iyer,Female,Mechanical,2,Block C,C-146,21:30:00,0.02
+STU-0437,Isha Pillai,Female,Information Tech,2,Block C,C-147,21:30:00,0.02
+STU-0438,Pari Deshmukh,Female,Information Tech,2,Block C,C-148,21:30:00,0.02
+STU-0439,Meera Sundaram,Female,Electronics,1,Block C,C-149,21:30:00,0.25
+STU-0440,Aanya Patel,Female,Electronics,2,Block C,C-150,21:30:00,0.08
+STU-0441,Pari Sharma,Female,AI & Data Science,4,Block D,D-101,21:30:00,0.02
+STU-0442,Kavya Verma,Female,AI & Data Science,1,Block D,D-102,21:30:00,0.08
+STU-0443,Meera Menon,Female,Electronics,4,Block D,D-103,21:30:00,0.02
+STU-0444,Ananya Deshmukh,Female,Information Tech,2,Block D,D-104,21:30:00,0.08
+STU-0445,Divya Nair,Female,Mechanical,2,Block D,D-105,21:30:00,0.02
+STU-0446,Riya Singh,Female,Computer Science,1,Block D,D-106,21:30:00,0.02
+STU-0447,Raashmi Joshi,Female,Mechanical,1,Block D,D-107,21:30:00,0.08
+STU-0448,Kavya Kumar,Female,Mechanical,2,Block D,D-108,21:30:00,0.08
+STU-0449,Priyanka Kumar,Female,Computer Science,1,Block D,D-109,21:30:00,0.02
+STU-0450,Pari Deshmukh,Female,Computer Science,4,Block D,D-110,21:30:00,0.25
+STU-0451,Isha Menon,Female,Computer Science,3,Block D,D-111,21:30:00,0.02
+STU-0452,Avni Iyer,Female,AI & Data Science,4,Block D,D-112,21:30:00,0.02
+STU-0453,Aaradhya Kumar,Female,AI & Data Science,1,Block D,D-113,21:30:00,0.02
+STU-0454,Meera Chatterjee,Female,Mechanical,2,Block D,D-114,21:30:00,0.08
+STU-0455,Deepika Nair,Female,Mechanical,4,Block D,D-115,21:30:00,0.02
+STU-0456,Sneha Kulkarni,Female,Mechanical,2,Block D,D-116,21:30:00,0.02
+STU-0457,Divya Patel,Female,AI & Data Science,4,Block D,D-117,21:30:00,0.02
+STU-0458,Kavya Deshmukh,Female,Mechanical,2,Block D,D-118,21:30:00,0.08
+STU-0459,Deepika Das,Female,AI & Data Science,3,Block D,D-119,21:30:00,0.02
+STU-0460,Raashmi Verma,Female,Computer Science,2,Block D,D-120,21:30:00,0.02
+STU-0461,Pari Gupta,Female,AI & Data Science,2,Block D,D-121,21:30:00,0.08
+STU-0462,Avni Patel,Female,Information Tech,1,Block D,D-122,21:30:00,0.25
+STU-0463,Riya Nair,Female,Information Tech,3,Block D,D-123,21:30:00,0.02
+STU-0464,Pari Das,Female,Mechanical,1,Block D,D-124,21:30:00,0.02
+STU-0465,Neha Gupta,Female,Mechanical,1,Block D,D-125,21:30:00,0.08
+STU-0466,Aadhya Verma,Female,Mechanical,1,Block D,D-126,21:30:00,0.02
+STU-0467,Divya Bhat,Female,Mechanical,3,Block D,D-127,21:30:00,0.02
+STU-0468,Deepika Pillai,Female,Information Tech,2,Block D,D-128,21:30:00,0.08
+STU-0469,Sneha Pillai,Female,Electronics,1,Block D,D-129,21:30:00,0.02
+STU-0470,Kavya Bhat,Female,Electronics,2,Block D,D-110,21:30:00,0.02
+STU-0471,Ananya Gupta,Female,Information Tech,3,Block D,D-111,21:30:00,0.08
+STU-0472,Sneha Nair,Female,Information Tech,2,Block D,D-112,21:30:00,0.02
+STU-0473,Anika Deshmukh,Female,Computer Science,1,Block D,D-113,21:30:00,0.02
+STU-0474,Aaradhya Verma,Female,Information Tech,4,Block D,D-114,21:30:00,0.08
+STU-0475,Pooja Singh,Female,AI & Data Science,4,Block D,D-115,21:30:00,0.08
+STU-0476,Isha Kumar,Female,AI & Data Science,2,Block D,D-116,21:30:00,0.02
+STU-0477,Priyanka Pillai,Female,Electronics,1,Block D,D-117,21:30:00,0.08
+STU-0478,Raashmi Deshmukh,Female,AI & Data Science,1,Block D,D-118,21:30:00,0.02
+STU-0479,Aanya Pillai,Female,Electronics,3,Block D,D-119,21:30:00,0.08
+STU-0480,Priyanka Pillai,Female,Mechanical,1,Block D,D-120,21:30:00,0.02
+STU-0481,Ananya Rao,Female,Information Tech,3,Block D,D-121,21:30:00,0.02
+STU-0482,Sneha Verma,Female,Mechanical,3,Block D,D-122,21:30:00,0.02
+STU-0483,Avni Patel,Female,Electronics,2,Block D,D-123,21:30:00,0.08
+STU-0484,Riya Sundaram,Female,Mechanical,1,Block D,D-124,21:30:00,0.25
+STU-0485,Sneha Menon,Female,Information Tech,3,Block D,D-125,21:30:00,0.02
+STU-0486,Ananya Kumar,Female,Mechanical,2,Block D,D-126,21:30:00,0.02
+STU-0487,Aanya Verma,Female,AI & Data Science,3,Block D,D-127,21:30:00,0.08
+STU-0488,Raashmi Deshmukh,Female,AI & Data Science,3,Block D,D-128,21:30:00,0.02
+STU-0489,Isha Sundaram,Female,Information Tech,1,Block D,D-129,21:30:00,0.25
+STU-0490,Avni Das,Female,Information Tech,2,Block D,D-130,21:30:00,0.02
+STU-0491,Priyanka Das,Female,Information Tech,2,Block D,D-131,21:30:00,0.02
+STU-0492,Isha Reddy,Female,Electronics,3,Block D,D-132,21:30:00,0.08
+STU-0493,Saanvi Sundaram,Female,Electronics,1,Block D,D-133,21:30:00,0.02
+STU-0494,Divya Das,Female,AI & Data Science,3,Block D,D-134,21:30:00,0.02
+STU-0495,Pari Hegde,Female,Mechanical,3,Block D,D-135,21:30:00,0.02
+STU-0496,Anika Verma,Female,Mechanical,4,Block D,D-136,21:30:00,0.02
+STU-0497,Saanvi Deshmukh,Female,Information Tech,2,Block D,D-137,21:30:00,0.02
+STU-0498,Diya Bhat,Female,Mechanical,3,Block D,D-138,21:30:00,0.08
+STU-0499,Aanya Nair,Female,Mechanical,1,Block D,D-139,21:30:00,0.02
+STU-0500,Priyanka Hegde,Female,Electronics,2,Block D,D-120,21:30:00,0.02
+STU-0501,Deepika Gupta,Female,Mechanical,2,Block D,D-121,21:30:00,0.08
+STU-0502,Riya Sundaram,Female,Electronics,1,Block D,D-122,21:30:00,0.02
+STU-0503,Deepika Pillai,Female,AI & Data Science,4,Block D,D-123,21:30:00,0.25
+STU-0504,Avni Kumar,Female,Electronics,2,Block D,D-124,21:30:00,0.02
+STU-0505,Riya Pillai,Female,Computer Science,3,Block D,D-125,21:30:00,0.02
+STU-0506,Sneha Menon,Female,AI & Data Science,2,Block D,D-126,21:30:00,0.02
+STU-0507,Aadhya Menon,Female,Electronics,3,Block D,D-127,21:30:00,0.02
+STU-0508,Diya Kumar,Female,Mechanical,1,Block D,D-128,21:30:00,0.02
+STU-0509,Riya Nair,Female,Computer Science,3,Block D,D-129,21:30:00,0.02
+STU-0510,Anika Verma,Female,Mechanical,1,Block D,D-130,21:30:00,0.02
+STU-0511,Aaradhya Bhat,Female,Information Tech,3,Block D,D-131,21:30:00,0.02
+STU-0512,Ananya Sharma,Female,Mechanical,4,Block D,D-132,21:30:00,0.02
+STU-0513,Priyanka Kulkarni,Female,AI & Data Science,3,Block D,D-133,21:30:00,0.02
+STU-0514,Avni Verma,Female,Computer Science,3,Block D,D-134,21:30:00,0.02
+STU-0515,Aanya Iyer,Female,Electronics,4,Block D,D-135,21:30:00,0.02
+STU-0516,Aanya Joshi,Female,Electronics,1,Block D,D-136,21:30:00,0.02
+STU-0517,Avni Verma,Female,Computer Science,2,Block D,D-137,21:30:00,0.02
+STU-0518,Isha Pillai,Female,Electronics,4,Block D,D-138,21:30:00,0.02
+STU-0519,Priyanka Nair,Female,Mechanical,2,Block D,D-139,21:30:00,0.02
+STU-0520,Aaradhya Gupta,Female,AI & Data Science,3,Block D,D-140,21:30:00,0.02
+STU-0521,Pari Sharma,Female,Information Tech,4,Block D,D-141,21:30:00,0.02
+STU-0522,Diya Iyer,Female,Mechanical,4,Block D,D-142,21:30:00,0.08
+STU-0523,Pooja Hegde,Female,Information Tech,1,Block D,D-143,21:30:00,0.02
+STU-0524,Pari Nair,Female,Electronics,2,Block D,D-144,21:30:00,0.02
+STU-0525,Riya Joshi,Female,AI & Data Science,2,Block D,D-145,21:30:00,0.02
+STU-0526,Isha Pillai,Female,Mechanical,3,Block D,D-146,21:30:00,0.02
+STU-0527,Meera Singh,Female,Computer Science,3,Block D,D-147,21:30:00,0.02
+STU-0528,Pari Joshi,Female,Mechanical,4,Block D,D-148,21:30:00,0.08
+STU-0529,Avni Reddy,Female,Information Tech,2,Block D,D-149,21:30:00,0.02
+STU-0530,Ananya Kulkarni,Female,AI & Data Science,2,Block D,D-130,21:30:00,0.25
+STU-0531,Meera Bhat,Female,Mechanical,4,Block D,D-131,21:30:00,0.08
+STU-0532,Diya Singh,Female,Mechanical,4,Block D,D-132,21:30:00,0.02
+STU-0533,Kavya Hegde,Female,Information Tech,1,Block D,D-133,21:30:00,0.02
+STU-0534,Aanya Chatterjee,Female,Mechanical,1,Block D,D-134,21:30:00,0.02
+STU-0535,Pari Gupta,Female,Mechanical,2,Block D,D-135,21:30:00,0.02
+STU-0536,Divya Kulkarni,Female,Computer Science,4,Block D,D-136,21:30:00,0.02
+STU-0537,Aanya Deshmukh,Female,AI & Data Science,2,Block D,D-137,21:30:00,0.02
+STU-0538,Aanya Chatterjee,Female,Electronics,3,Block D,D-138,21:30:00,0.02
+STU-0539,Saanvi Joshi,Female,Information Tech,4,Block D,D-139,21:30:00,0.02
+STU-0540,Divya Patel,Female,Computer Science,2,Block D,D-140,21:30:00,0.02
+STU-0541,Deepika Verma,Female,Computer Science,4,Block D,D-141,21:30:00,0.02
+STU-0542,Avni Bhat,Female,AI & Data Science,3,Block D,D-142,21:30:00,0.08
+STU-0543,Pooja Menon,Female,Electronics,2,Block D,D-143,21:30:00,0.08
+STU-0544,Sneha Joshi,Female,Computer Science,3,Block D,D-144,21:30:00,0.02
+STU-0545,Deepika Nair,Female,Information Tech,1,Block D,D-145,21:30:00,0.25
+STU-0546,Sneha Hegde,Female,AI & Data Science,3,Block D,D-146,21:30:00,0.02
+STU-0547,Saanvi Sharma,Female,Information Tech,2,Block D,D-147,21:30:00,0.02
+STU-0548,Pooja Chatterjee,Female,Electronics,4,Block D,D-148,21:30:00,0.02
+STU-0549,Meera Nair,Female,Information Tech,1,Block D,D-149,21:30:00,0.08
+STU-0550,Aaradhya Verma,Female,Electronics,3,Block D,D-150,21:30:00,0.08
